@@ -14,10 +14,10 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇CRIMSON-BOT』*"
 global.confirmCode = ""
 
-global.owner = [['201156323742', '👑 المطور 👑', true]];
+global.owner = [['201127562948', '👑 المطور 👑', true]];
 
-global.suittag = ['201156323742'];
-global.prems = ['201156323742'];
+global.suittag = ['201127562948'];
+global.prems = ['201127562948'];
 
 global.packname = '☾︎ CRIMSON-BOT-MD ☽︎';
 global.author = 'Moaaz';
@@ -49,12 +49,12 @@ global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\n☾︎ CRIMSON-BOT-MD ☽︎`;
 global.gt = '☾︎ CRIMSON-BOT-MD ☽︎';
 global.mysticbot = '☾︎ CRIMSON-BOT-MD ☽︎';
-global.md = 'https://wa.me/201156323742';
+global.md = 'https://wa.me/201127562948';
 global.mysticbot = 'https://wa.me/201156323742';
-global.waitt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201156323742*';
-global.waittt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201156323742*';
-global.waitttt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201156323742*';
-global.nomorown = '201156323742';
+global.waitt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201127562948*';
+global.waittt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201127562948*';
+global.waitttt = '*[ ⏳ ] جاري التحميل...*\n\n*مطور البوت: https://wa.me/201127562948*';
+global.nomorown = '201127562948';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
